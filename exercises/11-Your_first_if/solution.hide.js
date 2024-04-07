@@ -9,3 +9,4 @@ if (total <= 50) {
 } else {
     console.log("We still have a bit of driving left to go");
 }
+
